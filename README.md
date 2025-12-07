@@ -133,8 +133,7 @@ The final UNO packaging design:
 <p float="left">
   <img src="https://raw.githubusercontent.com/Rishikesh23a/UNO_Card_Box_Packaging_Design/main/Final_Design/IMG_20250506_212252.jpg" width="250" />
   <img src="https://raw.githubusercontent.com/Rishikesh23a/UNO_Card_Box_Packaging_Design/main/Final_Design/IMG_20250506_212214.jpg" width="250" />
-  <img src="https://raw.githubusercontent.com/Rishikesh23a/UNO_Card_Box_Packaging_Design/main/Final_Design/IMG_20250506_212253.jpg" width="250" />
-</p>
+ </p>
 
 
 <h2>👨‍🎨 9. Tools & Software Used</h2>
