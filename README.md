@@ -89,9 +89,21 @@ Steps followed:
 📸 6. Included Project Files
 
 GitHub project should contain:
-
-
-
+```
+UNO_Packaging_Design/
+│
+├── Dieline_images/            # Dieline layouts, flat templates, fold guides
+│
+├── Final_Design/              # Final front, back, side panels & artwork
+│
+├── Mockup_images/             # 3D mockups & prototype photographs
+│
+├── UNO_logo&icons/            # Logos, icons, color assets used in design
+│
+├── UNO_Packaging_Design.pptx  # Full presentation file (case study)
+│
+└── README.md                  # Project documentation
+```
 🌱 7. Sustainability Considerations
 
 • 100% recyclable paperboard
