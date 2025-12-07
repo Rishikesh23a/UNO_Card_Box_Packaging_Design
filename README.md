@@ -4,7 +4,7 @@ Redesigned UNO Playing Cards Box — Packaging Design Assignment
 
 This repository contains the complete packaging design process for creating a redesigned UNO card game box. It includes the dieline, prototype photographs, final packaging design, and full documentation.
 
-📘 1. Project Overview
+<h2>📘 1. Project Overview</h2>
 
 This project is a part of the Packaging Design subject, where the objective was to redesign an iconic game’s packaging — UNO: The Classic Card Game.
 
