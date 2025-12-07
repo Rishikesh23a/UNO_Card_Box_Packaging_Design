@@ -20,7 +20,7 @@ The aim was to create a packaging solution that is:
 
 • Easy to manufacture and assemble
 
-🎯 2. Project Objectives
+<h2>🎯 2. Project Objectives</h2>
 
 • Design a 3D mockup + physical prototype
 
@@ -34,7 +34,8 @@ The aim was to create a packaging solution that is:
 
 • Improve packaging usability and shelf presence
 
-🧱 3. Packaging Structure
+<h2>🧱 3. Packaging Structure</h2>
+
 ✔ Box Type
 
 • Flip-top tuck-in style
@@ -55,7 +56,7 @@ The aim was to create a packaging solution that is:
 
 • Compact and ergonomic structure
 
-🎨 4. Visual Design Elements
+<h2>🎨 4. Visual Design Elements</h2>
 
 The visual design follows UNO’s fun and energetic identity:
 
@@ -67,7 +68,8 @@ The visual design follows UNO’s fun and energetic identity:
 | **Top/Bottom Flaps** | Clean branding + functional fold lines        |
 | **Artwork Style**    | Bright, bold, playful — inspired by UNO cards |
 
-🧪 5. Prototyping & Process
+<h2>🧪 5. Prototyping & Process</h2>
+
 Steps followed:
 
 1.Sketching the base layout
@@ -86,7 +88,7 @@ Steps followed:
 
 8.Photographing from multiple angles
 
-📸 6. Included Project Files
+<h2>📸 6. Included Project Files</h2>
 
 GitHub project should contain:
 ```
@@ -104,7 +106,7 @@ UNO_Packaging_Design/
 │
 └── README.md                  # Project documentation
 ```
-🌱 7. Sustainability Considerations
+<h2>🌱 7. Sustainability Considerations</h2>
 
 • 100% recyclable paperboard
 
@@ -114,7 +116,7 @@ UNO_Packaging_Design/
 
 • Optimized dieline to reduce material wastage
 
-🏁 8. Final Outcome
+<h2>🏁 8. Final Outcome</h2>
 
 The final UNO packaging design:
 
@@ -128,7 +130,7 @@ The final UNO packaging design:
 
 • Ensures proper protection for the cards
 
-👨‍🎨 9. Tools & Software Used
+<h2>👨‍🎨 9. Tools & Software Used</h2>
 
 • Adobe Illustrator / Canva
 
@@ -138,7 +140,7 @@ The final UNO packaging design:
 
 • Phone camera for mockups
 
-⭐ 10. How to Use This Repository
+<h2>⭐ 10. How to Use This Repository</h2>
 
 You can use this repo to:
 
@@ -157,4 +159,4 @@ You can use this repo to:
 👨‍💻 Rushikesh Sable
 MIT Academy of Engineering
 📧 rushikeshsable9850@gmail.com
-``
+```
